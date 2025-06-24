@@ -109,5 +109,4 @@ MIT
 
 ## ✍️ Author
 
-Okoth67 
-LLM Engineer in Training  
+Okoth67
